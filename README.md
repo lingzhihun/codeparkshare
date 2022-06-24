@@ -24,7 +24,7 @@ PythonShare
 --------------------------
 
 ### 零基础
-0. Python官方文档 [点击打开链接](http://docs.python.org/2/tutorial/index.html) 英语不好的，暂时就先别看了，以后一定肯定要加强英语学习哦;)。
+0. Python官方文档 [点击打开链接](https://docs.python.org/3/tutorial/index.html) 英语不好的，暂时就先别看了，以后一定肯定要加强英语学习哦;)。
 
 1. 推荐[《How to think like a computer scientist》](http://www.greenteapress.com/thinkpython/thinkCSpy.pdf)，对应中文版本《Python学习笔记--皮大庆》，非常适合零基础入门。
 
